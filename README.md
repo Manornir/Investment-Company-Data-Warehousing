@@ -32,7 +32,7 @@ To establish the data warehouse in SQL Server, execute each code block in the fi
 19. mart.team_ranking_by_revenue
 ##### Mart For Bookkeeping
 21. mart.brokers_salaries
-##### Marts For Bookkeeping
+##### Marts For CFO
 23. mart.c_monthly_revenues
 24. mart.monthly_gross_profits
 
